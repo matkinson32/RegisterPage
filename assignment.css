@@ -1,0 +1,24 @@
+body {
+   background-color: coral;
+}
+
+form {
+    background-color: rgb(156, 30, 108);
+    text-align: center;
+    box-sizing: content-box;
+}
+
+h1 {
+    text-align: center;
+}
+
+
+
+
+form input, form buttom {
+    width: 50%
+}
+
+footer img {
+    height: 30px;
+    width: 50px; }
